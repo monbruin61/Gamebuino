@@ -1,2 +1,2 @@
-# Hand-Following-Car
-OPS Capstone Project
+# Tic-Tac-Toe
+Created using I2C communication protocols
